@@ -13,3 +13,9 @@ ctrl shift `   launch cmd
 ```
 npm install firebase angularfire2 --save
 ```
+
+```
+ctrl . fix formatting
+```
+
+install typescript importer
