@@ -31,6 +31,7 @@ then we need to add database module in app.module.ts
 ### 5 Deploying to Firebase Hosting
 ```
 npm i firebase-tools -g
+npm install -g @google-cloud/functions-emulator
 ```
 in the project folder
 ```
