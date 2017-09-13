@@ -6,3 +6,10 @@
 ```
 ng server -o
 ```
+
+```
+ctrl shift `   launch cmd
+```
+```
+npm install firebase angularfire2 --save
+```
