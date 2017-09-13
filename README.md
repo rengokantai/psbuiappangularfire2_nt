@@ -27,3 +27,17 @@ npm install promise-polyfill --save-exact
 then we need to add database module in app.module.ts
 [see here](https://stackoverflow.com/questions/43772474/no-provider-for-angularfiredatabase-angularfireauth/43772497#43772497)
 
+
+### 5 Deploying to Firebase Hosting
+```
+npm i firebase-tools -g
+```
+in the project folder
+```
+firebase login
+firebase init
+```
+When asking
+```
+What do you want to use as your public directory?(public)  : dist
+```
