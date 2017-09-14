@@ -57,3 +57,9 @@ npm i @angular/material @angular/animations @angular/flex-layout hammerjs --save
 
 ## 4. Retrieving and Working with Firebase Objects
 angular2-switcher
+
+### 6 Saving Objects
+```
+ng g c company/company-edit --spec false
+ng g service company/compay --spec false
+```
