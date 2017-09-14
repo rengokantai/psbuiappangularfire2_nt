@@ -49,3 +49,8 @@ need to run all three choices.
 ng build --prod
 firebase deploy
 ```
+
+### 4 Adding Angular Material
+```
+npm i @angular/material @angular/animations @angular/flex-layout hammerjs --save
+```
