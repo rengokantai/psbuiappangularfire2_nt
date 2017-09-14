@@ -42,3 +42,10 @@ When asking
 ```
 What do you want to use as your public directory?(public)  : dist
 ```
+need to run all three choices.
+
+#### 03:01
+```
+ng build --prod
+firebase deploy
+```
