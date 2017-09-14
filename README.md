@@ -54,3 +54,6 @@ firebase deploy
 ```
 npm i @angular/material @angular/animations @angular/flex-layout hammerjs --save
 ```
+
+## 4. Retrieving and Working with Firebase Objects
+angular2-switcher
