@@ -61,5 +61,5 @@ angular2-switcher
 ### 6 Saving Objects
 ```
 ng g c company/company-edit --spec false
-ng g service company/compay --spec false
+ng g service company/company --spec false
 ```
