@@ -66,5 +66,6 @@ ng g service company/company --spec false
 
 ### 9 Handling with Promises and Observables
 ```
-import 'rxjs/add/observable/catch';
+import 'rxjs/add/observable/catch';  //personal testing failed.Instead, use
+import 'rxjs/Rx';
 ```
