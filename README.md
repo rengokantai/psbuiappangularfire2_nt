@@ -63,3 +63,8 @@ angular2-switcher
 ng g c company/company-edit --spec false
 ng g service company/company --spec false
 ```
+
+### 9 Handling with Promises and Observables
+```
+import 'rxjs/add/observable/catch';
+```
