@@ -69,3 +69,7 @@ ng g service company/company --spec false
 import 'rxjs/add/observable/catch';  //personal testing failed.Instead, use
 import 'rxjs/Rx';
 ```
+
+```
+ng g c company/company-list --spec false
+```
