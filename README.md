@@ -73,3 +73,10 @@ import 'rxjs/Rx';
 ```
 ng g c company/company-list --spec false
 ```
+
+
+### 3 Retriving Lists
+
+```
+ng g interface company
+```
