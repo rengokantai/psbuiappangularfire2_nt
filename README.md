@@ -80,3 +80,9 @@ ng g c company/company-list --spec false
 ```
 ng g interface company
 ```
+
+## 7. Authentication
+### 2 Logging in Users
+```
+ng g service auth --spec false
+```
