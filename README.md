@@ -86,3 +86,8 @@ ng g interface company
 ```
 ng g service auth --spec false
 ```
+
+### 4 Using Angular Guards to Secure Routes
+```
+ng g guard auth/auth --spec false
+```
